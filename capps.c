@@ -4,4 +4,4 @@ int main(){
     *ptr=5;
 	printf("%d",ptr);
 	return 0;
-}
+};
