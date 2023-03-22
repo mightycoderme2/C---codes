@@ -1,0 +1,1 @@
+ node->right=createtree(in,pre,m[c]+1,r,index,m);
